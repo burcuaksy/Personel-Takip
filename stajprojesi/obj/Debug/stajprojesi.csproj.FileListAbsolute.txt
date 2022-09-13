@@ -1,0 +1,12 @@
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\bin\Debug\stajprojesi.exe.config
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\bin\Debug\stajprojesi.exe
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\bin\Debug\stajprojesi.pdb
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.csprojAssemblyReference.cache
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.Form1.resources
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.Properties.Resources.resources
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.csproj.GenerateResource.cache
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.csproj.CoreCompileInputs.cache
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.exe
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.pdb
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.Form2.resources
+C:\Users\Hatice\Desktop\ödev\stajprojesi\stajprojesi\obj\Debug\stajprojesi.Form3.resources
